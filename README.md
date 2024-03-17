@@ -2,7 +2,14 @@
 ![ETHGlobal_London_Banner](https://github.com/ethglobal-london-2024/votecast/assets/8581537/79d0c6ea-d927-4fd7-afd3-5e8d7ade533b)
 
 ## About
-Votecast enables users to cast votes on proposals across different chains directly from their Safe ERC4337 wallet on the Base Network, streamlining the governance process and fostering greater community involvement.
+Enable Cross-Chain DAO Participation on the Farcaster Network
+
+We empower Farcaster users to participate in DAO governance, irrespective of the underlying blockchain network. 
+
+Our product enables users to cast votes on proposals across different chains directly from their Safe ERC4337 wallet on the Base Network, streamlining the governance process and fostering greater community involvement.
+
+## Impact and Vision
+By bridging the gap between Farcaster users and DAOs across different blockchain networks, our project aims to democratize participation in decentralized governance. We envision a future where the barriers to cross-chain interaction are minimized, enabling a more inclusive, transparent, and efficient governance landscape. 
 
 ## Farcaster Frame
 https://github.com/ethglobal-london-2024/frame-dao-voting
