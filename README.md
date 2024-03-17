@@ -1,4 +1,4 @@
-# ETHGlobal London 2024 Project Submission
+# VoteCast - ETHGlobal London 2024 Project
 ![ETHGlobal_London_Banner](https://github.com/ethglobal-london-2024/votecast/assets/8581537/79d0c6ea-d927-4fd7-afd3-5e8d7ade533b)
 
 ## About
