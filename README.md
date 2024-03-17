@@ -42,4 +42,12 @@ https://github.com/ethglobal-london-2024/ccip-cross-chain-vote
 
 ## Arbitrum One Mainnet
 
-- DestinationVoterOApp - https://arbiscan.io/address/0xCeeF0be32E21205b14a9ABa2A23A54248556D3a7
+- DestinationVoterOApp - https://arbiscan.io/address/0xc8e8d757b8169362bf6353072786fc43deb999a4
+
+## Base Sepolia Testnet
+
+- SourceVoter - https://sepolia.basescan.org/address/0x3B6385493a1d4603809dDbaE647200eF8baA53F5
+
+## Arbitrum Sepolia Testnet
+
+- DestinationVoter - https://sepolia.arbiscan.io/address/0x3B6385493a1d4603809dDbaE647200eF8baA53F5
